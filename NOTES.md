@@ -15,3 +15,4 @@ yarn add @types/body-parser @types/config @types/cors @types/express @types/node
 - [x] add Logger
 - [x] add Middleware 🛂 Validate request (Zod)
 - [x] User controller, service, schema 🧍
+- [x] User sessions, we have a problem with jwt algorithm RS256 ❎
